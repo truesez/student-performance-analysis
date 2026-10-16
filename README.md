@@ -1,5 +1,4 @@
 # student-performance-analysis
-# Student Performance Analysis
 
 > A simple Python project that analyzes student marks and visualizes academic performance using charts.
 
